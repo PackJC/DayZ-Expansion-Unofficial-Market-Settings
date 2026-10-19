@@ -260,7 +260,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_PiranhaFilletMeat",
+      "ClassName": "geb_RedBelliedPiranhaFilletMeat",
       "MaxPriceThreshold": 400,
       "MinPriceThreshold": 400,
       "SellPricePercent": 100.0,
