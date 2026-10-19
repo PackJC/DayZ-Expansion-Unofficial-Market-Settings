@@ -128,6 +128,17 @@
       "Variants": []
     },
     {
+      "ClassName": "geb_OcellateRiverStingrayFilletMeat",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "geb_BlackBassFilletMeat",
       "MaxPriceThreshold": 400,
       "MinPriceThreshold": 400,
@@ -239,6 +250,28 @@
     },
     {
       "ClassName": "geb_WhiteBassFilletMeat",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_PiranhaFilletMeat",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SteelheadTroutFilletMeat",
       "MaxPriceThreshold": 400,
       "MinPriceThreshold": 400,
       "SellPricePercent": 100.0,
@@ -402,6 +435,17 @@
       "ClassName": "geb_YellowCaviar",
       "MaxPriceThreshold": 800,
       "MinPriceThreshold": 800,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "RedCaviar",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
       "MaxStockThreshold": 0,
       "MinStockThreshold": 0,

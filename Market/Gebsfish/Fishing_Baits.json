@@ -67,6 +67,17 @@
       ]
     },
     {
+      "ClassName": "geb_FeatherJig",
+      "MaxPriceThreshold": 15,
+      "MinPriceThreshold": 15,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "geb_FieldCricket",
       "MaxPriceThreshold": 5,
       "MinPriceThreshold": 5,

@@ -18,7 +18,17 @@
       "Variants": [
         "geb_BlueFishHat",
         "geb_GreenFishHat",
-        "geb_PurpleFishHat"
+        "geb_PurpleFishHat",
+        "geb_OrangeFishHat",
+        "geb_YellowFishHat",
+        "geb_BrownFishHat",
+        "geb_PinkFishHat",
+        "geb_LimeFishHat",
+        "geb_LightBlueFishHat",
+        "geb_CamoFishHat",
+        "geb_DesertCamoFishHat",
+        "geb_SnowCamoFishHat",
+        "geb_PinkCamoFishHat"
       ]
     },
     {
@@ -33,7 +43,17 @@
       "Variants": [
         "geb_BlueFishShirt",
         "geb_GreenFishShirt",
-        "geb_PurpleFishShirt"
+        "geb_PurpleFishShirt",
+        "geb_OrangeFishShirt",
+        "geb_YellowFishShirt",
+        "geb_BrownFishShirt",
+        "geb_PinkFishShirt",
+        "geb_LimeFishShirt",
+        "geb_LightBlueFishShirt",
+        "geb_CamoFishShirt",
+        "geb_DesertCamoFishShirt",
+        "geb_SnowCamoFishShirt",
+        "geb_PinkCamoFishShirt"
       ]
     },
     {
@@ -46,7 +66,94 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "geb_OrangeFishGloves"
+        "geb_OrangeFishGloves",
+        "geb_RedFishGloves",
+        "geb_GreenFishGloves",
+        "geb_PurpleFishGloves",
+        "geb_YellowFishGloves",
+        "geb_BrownFishGloves",
+        "geb_PinkFishGloves",
+        "geb_LimeFishGloves",
+        "geb_LightBlueFishGloves",
+        "geb_CamoFishGloves",
+        "geb_DesertCamoFishGloves",
+        "geb_SnowCamoFishGloves",
+        "geb_PinkCamoFishGloves"
+      ]
+    },
+    {
+      "ClassName": "geb_RedFishRaincoat",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_BlueFishRaincoat",
+        "geb_GreenFishRaincoat",
+        "geb_PurpleFishRaincoat",
+        "geb_OrangeFishRaincoat",
+        "geb_YellowFishRaincoat",
+        "geb_BrownFishRaincoat",
+        "geb_PinkFishRaincoat",
+        "geb_LimeFishRaincoat",
+        "geb_LightBlueFishRaincoat",
+        "geb_CamoFishRaincoat",
+        "geb_DesertCamoFishRaincoat",
+        "geb_SnowCamoFishRaincoat",
+        "geb_PinkCamoFishRaincoat"
+      ]
+    },
+    {
+      "ClassName": "geb_RedFishVest",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_BlueFishVest",
+        "geb_GreenFishVest",
+        "geb_PurpleFishVest",
+        "geb_OrangeFishVest",
+        "geb_YellowFishVest",
+        "geb_BrownFishVest",
+        "geb_PinkFishVest",
+        "geb_LimeFishVest",
+        "geb_LightBlueFishVest",
+        "geb_CamoFishVest",
+        "geb_DesertCamoFishVest",
+        "geb_SnowCamoFishVest",
+        "geb_PinkCamoFishVest"
+      ]
+    },
+    {
+      "ClassName": "geb_RedFishWellies",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_BlueFishWellies",
+        "geb_GreenFishWellies",
+        "geb_PurpleFishWellies",
+        "geb_OrangeFishWellies",
+        "geb_YellowFishWellies",
+        "geb_BrownFishWellies",
+        "geb_PinkFishWellies",
+        "geb_LimeFishWellies",
+        "geb_LightBlueFishWellies",
+        "geb_CamoFishWellies",
+        "geb_DesertCamoFishWellies",
+        "geb_SnowCamoFishWellies",
+        "geb_PinkCamoFishWellies"
       ]
     }
   ],

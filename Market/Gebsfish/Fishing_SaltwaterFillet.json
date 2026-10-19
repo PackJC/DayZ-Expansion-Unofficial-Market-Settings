@@ -139,6 +139,28 @@
       "Variants": []
     },
     {
+      "ClassName": "geb_SouthernStingrayFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_GreatBarracudaFilletMeat",
+      "MaxPriceThreshold": 1300,
+      "MinPriceThreshold": 1300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "geb_WhiteGruntFilletMeat",
       "MaxPriceThreshold": 1300,
       "MinPriceThreshold": 1300,
@@ -194,7 +216,7 @@
       "Variants": []
     },
     {
-      "ClassName": "geb_BonitaFilletMeat",
+      "ClassName": "geb_PacificBonitoFilletMeat",
       "MaxPriceThreshold": 1200,
       "MinPriceThreshold": 1200,
       "SellPricePercent": 100.0,
@@ -294,6 +316,94 @@
     },
     {
       "ClassName": "geb_PacificCodFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "WalleyePollockFilletMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_HumboldtSquidMeat",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_EuropeanFlyingSquidMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_NeonFlyingSquidMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_JapaneseFlyingSquidMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_PurplebackFlyingSquidMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_NorthernShortfinSquidMeat",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_ArgentineShortfinSquidMeat",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
       "SellPricePercent": 100.0,
@@ -423,6 +533,21 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "geb_NorthernShortfinSquidJuvenile",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": 100.0,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "geb_JapaneseFlyingSquidJuvenile",
+        "geb_PurplebackFlyingSquidJuvenile",
+        "geb_ArgentineShortfinSquidJuvenile"
+      ]
     }
   ],
   "SortByDisplayName": false

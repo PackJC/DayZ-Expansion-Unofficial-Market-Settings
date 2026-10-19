@@ -31,7 +31,15 @@
         "geb_GreenFishKnife",
         "geb_RedFishKnife",
         "geb_PurpleFishKnife",
-        "geb_YellowFishKnife"
+        "geb_YellowFishKnife",
+        "geb_BrownFishKnife",
+        "geb_PinkFishKnife",
+        "geb_LimeFishKnife",
+        "geb_LightBlueFishKnife",
+        "geb_CamoFishKnife",
+        "geb_DesertCamoFishKnife",
+        "geb_SnowCamoFishKnife",
+        "geb_PinkCamoFishKnife"
       ]
     },
     {
@@ -46,22 +54,17 @@
       "Variants": [
         "geb_OldRedTackle",
         "geb_OldBlueTackle",
-        "geb_OldPurpleTackle"
-      ]
-    },
-    {
-      "ClassName": "geb_FunRedTackle",
-      "MaxPriceThreshold": 350,
-      "MinPriceThreshold": 350,
-      "SellPricePercent": 20.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "geb_FunYellowTackle",
-        "geb_FunPurpleTackle",
-        "geb_FunGreenTackle"
+        "geb_OldPurpleTackle",
+        "geb_OldOrangeTackle",
+        "geb_OldYellowTackle",
+        "geb_OldBrownTackle",
+        "geb_OldPinkTackle",
+        "geb_OldLimeTackle",
+        "geb_OldLightBlueTackle",
+        "geb_OldCamoTackle",
+        "geb_OldDesertCamoTackle",
+        "geb_OldSnowCamoTackle",
+        "geb_OldPinkCamoTackle"
       ]
     },
     {
@@ -83,7 +86,10 @@
         "geb_LightBlueTackle",
         "geb_GreenTackle",
         "geb_CamoTackle",
-        "geb_PinkTackle"
+        "geb_PinkTackle",
+        "geb_DesertCamoTackle",
+        "geb_SnowCamoTackle",
+        "geb_PinkCamoTackle"
       ]
     },
     {
@@ -116,7 +122,10 @@
         "geb_PurpleCooler",
         "geb_PinkCooler",
         "geb_BrownCooler",
-        "geb_CamoCooler"
+        "geb_CamoCooler",
+        "geb_DesertCamoCooler",
+        "geb_SnowCamoCooler",
+        "geb_PinkCamoCooler"
       ]
     },
     {
@@ -164,6 +173,28 @@
       "Variants": []
     },
     {
+      "ClassName": "geb_MediumFishMount",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_LargeFishMount",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 900,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "Netting",
       "MaxPriceThreshold": 75,
       "MinPriceThreshold": 75,
@@ -189,6 +220,50 @@
       "ClassName": "FishNetTrap",
       "MaxPriceThreshold": 250,
       "MinPriceThreshold": 250,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FishDryingRackKit",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FishingLocker",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FishTankStand",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FishTank",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
       "SellPricePercent": 20.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

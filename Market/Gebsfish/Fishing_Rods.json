@@ -18,8 +18,62 @@
       "Variants": [
         "geb_GreenFishingRod",
         "geb_BlueFishingRod",
-        "geb_PurpleFishingRod"
+        "geb_PurpleFishingRod",
+        "geb_OrangeFishingRod",
+        "geb_YellowFishingRod",
+        "geb_BrownFishingRod",
+        "geb_PinkFishingRod",
+        "geb_LimeFishingRod",
+        "geb_LightBlueFishingRod",
+        "geb_CamoFishingRod",
+        "geb_DesertCamoFishingRod",
+        "geb_SnowCamoFishingRod",
+        "geb_PinkCamoFishingRod"
       ]
+    },
+    {
+      "ClassName": "geb_SpincastFishingRod",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_BaitcastFishingRod",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_FlyFishingRod",
+      "MaxPriceThreshold": 450,
+      "MinPriceThreshold": 450,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "geb_HeavySurfRod",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 20.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     },
     {
       "ClassName": "FishingRod",
